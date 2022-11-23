@@ -1,8 +1,61 @@
-# Hi! 
-# Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=flat&logo=Adobe%20Audition&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%2300F7F4&size=32&center=true&vCenter=true&multiline=true&width=1000&height=60&lines=Yo+,+I'm+Ferdy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%2300F7F4&size=32&center=true&vCenter=true&multiline=true&width=1000&height=60&lines=🐧)](https://git.io/typing-svg)
+
+<br />
+
+## 🎓 Full Stack Developer in Making!
+- 🔭 I’m currently working on web development
+- 🌱 I’m currently learning dapp/web3 development
+- 👯 I’m looking to collaborate on web apps made with react, node, express, mongoDB
+- 💬 Ask me about comic based movies
+- 👯 I work best in pair programming!
+- 📫 How to reach me: ...
+
+<br />
+
+## 🧰 Languages and Tools:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
+</p>
+
+<br />
+
+## 💫 Realtime Data
+  
+![](https://visitor-badge.laobi.icu/badge?page_id=mtajammulzia.mtajammulzia)
+[![Github](https://img.shields.io/github/followers/mtajammulzia?label=Follow&style=social)](https://github.com/mtajammulzia)
+
+<br />
+  
+## :trophy: My Github Stats:
+<div align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=mtajammulzia&theme=tokyonight">
+    <img  align="left" src="https://github-readme-stats.vercel.app/api?username=mtajammulzia&count_private=true&show_icons=true&theme=tokyonight" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mtajammulzia&hide=php&theme=tokyonight">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtajammulzia&hide=php&theme=tokyonight" />
+  </a>
+</div>
 
 
 
+<!--
+**mtajammulzia/mtajammulzia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
